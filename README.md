@@ -1,10 +1,10 @@
-👋 Hey, I'm CodeWithLophi
+👋 Hey, I'm Literally_Phil
 
 🎯 Backend Developer | ML Enthusiast   
 💻 I build systems that work smart, scale fast, and make data make sense.
 
 🔭 I’m currently working on
-Life OS: A personal productivity & task management system built with Flask and SQLite.  
+Life OS/ IkigAI: A personal productivity & task management system built with Flask and SQLite.  
 Inventory CLI App:A command-line inventory manager powered by Python and SQL.  
 - Strengthening backend patterns and preparing for ML-integrated systems.
 
