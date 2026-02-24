@@ -1,43 +1,21 @@
-👋 Hey, I'm Literally_Phil
+# 💫 About Me:
+👋 Hey, I'm Literally_Phil<br><br>🎯 Backend Developer | ML Enthusiast<br>💻 I build systems that work smart, scale fast, and make data make sense.<br><br>🔭 I’m currently working on Life OS/ IkigAI: A personal productivity & task management system built with Flask and SQLite.<br>Inventory CLI App:A command-line inventory manager powered by Python and SQL.<br><br>Strengthening backend patterns and preparing for ML-integrated systems.<br>\=== 🌱 I’m currently learning<br><br>Django, FastAPI, and Docker for production-grade backend services.<br>Azure Cloud for scalable deployments.<br>TensorFlow and Scikit-learn for applied machine learning.<br>System design & architecture for real-world scalability.<br>👯 I’m looking to collaborate on<br><br>Open-source backend projects that focus on APIs, automation, or data systems.<br>ML integration in everyday apps — turning theory into useful features.<br>🤔 I’m looking for help with<br><br>Deploying containerized ML models efficiently.<br>Optimizing database performance in high-traffic backend systems.<br>💬 Ask me about<br><br>REST API design, Flask/Django development, and backend logic.<br>Integrating machine learning models into production.<br>Productivity systems and digital organization (I build them too). 📫 How to reach me 💼 LinkedIn<br>🐙 GitHub<br>📧 m.philip.musabi@gmail.com<br>⚡ Fun fact I believe backend development is like chess — it’s not about speed, it’s about seeing ten moves ahead. ♟️<br><br>“A man who dares to waste one hour of time has not discovered the value of life.” — Charles Darwin
 
-🎯 Backend Developer | ML Enthusiast   
-💻 I build systems that work smart, scale fast, and make data make sense.
 
-🔭 I’m currently working on
-Life OS/ IkigAI: A personal productivity & task management system built with Flask and SQLite.  
-Inventory CLI App:A command-line inventory manager powered by Python and SQL.  
-- Strengthening backend patterns and preparing for ML-integrated systems.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/philip-musabi-31b329387) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.philip.musabi@gmail.com) 
 
-\\===
-🌱 I’m currently learning
-- Django, FastAPI, and Docker for production-grade backend services.  
-- Azure Cloud for scalable deployments.  
-- TensorFlow and Scikit-learn for applied machine learning.  
-- System design & architecture for real-world scalability.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LiterallyPhil&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=LiterallyPhil&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LiterallyPhil&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=LiterallyPhil&theme=gruvbox_light&no-frame=false&no-bg=true&margin-w=4)
 
-👯 I’m looking to collaborate on
-- Open-source backend projects that focus on APIs, automation, or data systems.  
-- ML integration in everyday apps — turning theory into useful features.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
- 🤔 I’m looking for help with
-- Deploying containerized ML models efficiently.  
-- Optimizing database performance in high-traffic backend systems.
-
-💬 Ask me about
-- REST API design, Flask/Django development, and backend logic.  
-- Integrating **machine learning models** into production.  
-- Productivity systems and digital organization (I build them too).
-📫 How to reach me
-💼 [LinkedIn](https://www.linkedin.com/in/philip-musabi-31b329387/)  
-🐙 [GitHub](https://github.com/LiterallyPhil)  
-📧 m.philip.musabi@gmail.com
-
-⚡ Fun fact
-I believe backend development is like chess — it’s not about speed, it’s about seeing ten moves ahead. ♟️  
-
----
-
-> “A man who dares to waste one hour of time has not discovered the value of life.”
-> — Charles Darwin
+[![](https://visitcount.itsvg.in/api?id=LiterallyPhil&icon=6&color=8)](https://visitcount.itsvg.in)
